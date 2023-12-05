@@ -1,0 +1,6 @@
+node_modules
+# Ignore environment variables or configuration files
+.env
+# Ignore logs and build artifacts
+/logs/
+/dist/
